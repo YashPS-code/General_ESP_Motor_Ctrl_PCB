@@ -1,0 +1,7 @@
+# KiCad cache and temp files
+fp-info-cache
+*.kicad_prl
+*-backups/
+*.bak
+*.tmp
+*.net
